@@ -13,5 +13,5 @@ variable "location" {
 variable "storage_account_name" {
   description = "Name of the storage account"
   type        = string
-  default     = "stgteraformplantest4"  # Must be unique; override via tfvars
+  default     = "stgteraformplantest5"  # Must be unique; override via tfvars
 }
